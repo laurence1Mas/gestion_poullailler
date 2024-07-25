@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE8E6A7C-A286-4557-A13F-D7D11378ED9D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>gestion_poullailler</RootNamespace>
+    <AssemblyName>gestion_poullailler</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.2.UI, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.2.Extensions, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\clsConnection\connexion.cs" />
+    <Compile Include="Classes\clsDataaccess\dataAccess.cs" />
+    <Compile Include="Classes\ClsVariables\clsagent.cs" />
+    <Compile Include="Classes\ClsVariables\clsaliment.cs" />
+    <Compile Include="Classes\ClsVariables\clscategoriealiment.cs" />
+    <Compile Include="Classes\ClsVariables\clscategoriemedicament.cs" />
+    <Compile Include="Classes\ClsVariables\clscategoriepoule.cs" />
+    <Compile Include="Classes\ClsVariables\clsclient.cs" />
+    <Compile Include="Classes\ClsVariables\clscommande.cs" />
+    <Compile Include="Classes\ClsVariables\clsconsommation.cs" />
+    <Compile Include="Classes\ClsVariables\clsfournisseur.cs" />
+    <Compile Include="Classes\ClsVariables\clslivraison.cs" />
+    <Compile Include="Classes\ClsVariables\clsmedicament.cs" />
+    <Compile Include="Classes\ClsVariables\clsmortalite.cs" />
+    <Compile Include="Classes\ClsVariables\clspoule.cs" />
+    <Compile Include="Classes\ClsVariables\clstraitement.cs" />
+    <Compile Include="Classes\MYCONNECTION.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmprincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmprincipal.Designer.cs">
+      <DependentUpon>frmprincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\boncommande.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\boncommande.Designer.cs">
+      <DependentUpon>boncommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\listClient.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\listClient.Designer.cs">
+      <DependentUpon>listClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\listecommande.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\listecommande.Designer.cs">
+      <DependentUpon>listecommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\listeConsommation.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\listeConsommation.Designer.cs">
+      <DependentUpon>listeConsommation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\listeFournisseur.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\listeFournisseur.Designer.cs">
+      <DependentUpon>listeFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\listelivraison.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\listelivraison.Designer.cs">
+      <DependentUpon>listelivraison.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\listemortalite.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\listemortalite.Designer.cs">
+      <DependentUpon>listemortalite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\listePoule.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\listePoule.Designer.cs">
+      <DependentUpon>listePoule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\listetraitement.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\listetraitement.Designer.cs">
+      <DependentUpon>listetraitement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserAgents.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserAgents.Designer.cs">
+      <DependentUpon>UserAgents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserAlimentConsommation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserAlimentConsommation.Designer.cs">
+      <DependentUpon>UserAlimentConsommation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserCategories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserCategories.Designer.cs">
+      <DependentUpon>UserCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserClient.Designer.cs">
+      <DependentUpon>UserClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserCommande.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserCommande.Designer.cs">
+      <DependentUpon>UserCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserFournisseur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserFournisseur.Designer.cs">
+      <DependentUpon>UserFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserLivraison.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserLivraison.Designer.cs">
+      <DependentUpon>UserLivraison.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserMortalite.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserMortalite.Designer.cs">
+      <DependentUpon>UserMortalite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserPoules.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserPoules.Designer.cs">
+      <DependentUpon>UserPoules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserTraitement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserTraitement.Designer.cs">
+      <DependentUpon>UserTraitement.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmprincipal.resx">
+      <DependentUpon>frmprincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reports\boncommande.resx">
+      <DependentUpon>boncommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\listClient.resx">
+      <DependentUpon>listClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\listecommande.resx">
+      <DependentUpon>listecommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\listeConsommation.resx">
+      <DependentUpon>listeConsommation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\listeFournisseur.resx">
+      <DependentUpon>listeFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\listelivraison.resx">
+      <DependentUpon>listelivraison.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\listemortalite.resx">
+      <DependentUpon>listemortalite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\listePoule.resx">
+      <DependentUpon>listePoule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\listetraitement.resx">
+      <DependentUpon>listetraitement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserAgents.resx">
+      <DependentUpon>UserAgents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserAlimentConsommation.resx">
+      <DependentUpon>UserAlimentConsommation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserCategories.resx">
+      <DependentUpon>UserCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserClient.resx">
+      <DependentUpon>UserClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserCommande.resx">
+      <DependentUpon>UserCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserFournisseur.resx">
+      <DependentUpon>UserFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserLivraison.resx">
+      <DependentUpon>UserLivraison.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserMortalite.resx">
+      <DependentUpon>UserMortalite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserPoules.resx">
+      <DependentUpon>UserPoules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserTraitement.resx">
+      <DependentUpon>UserTraitement.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

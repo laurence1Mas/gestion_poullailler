@@ -1,0 +1,392 @@
+E:\visual project\gestion_poullailler\bin\Debug\gestion_poullailler.exe.config
+E:\visual project\gestion_poullailler\bin\Debug\gestion_poullailler.exe
+E:\visual project\gestion_poullailler\bin\Debug\gestion_poullailler.pdb
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.csprojResolveAssemblyReference.cache
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Form1.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Properties.Resources.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.csproj.GenerateResource.Cache
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.exe
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.pdb
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserCategories.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserPoules.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserFourniClient.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserAlimentConsommation.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserAgents.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserCommande.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserLivraison.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserMortalite.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserTraitement.resources
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Data.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.DataAccess.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Xpo.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraReports.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.CodeParser.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Data.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.DataAccess.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Xpo.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraReports.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\visual project\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\visual project\gestion_poullailler\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listClient.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listeConsommation.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listeFournisseur.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listemortalite.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listePoule.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listetraitement.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.exe.licenses
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listecommande.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.boncommande.resources
+E:\visual project\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listelivraison.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\gestion_poullailler.exe.config
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.exe
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.pdb
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\gestion_poullailler.exe
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\gestion_poullailler.pdb
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Data.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.DataAccess.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Xpo.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraReports.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.CodeParser.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Data.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.DataAccess.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Xpo.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraReports.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.csprojResolveAssemblyReference.cache
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Form1.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Properties.Resources.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.boncommande.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listClient.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listecommande.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listeConsommation.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listeFournisseur.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listelivraison.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listemortalite.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listePoule.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.Reports.listetraitement.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserAgents.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserAlimentConsommation.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserCategories.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserCommande.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserLivraison.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserMortalite.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserPoules.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserTraitement.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.csproj.GenerateResource.Cache
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.exe.licenses
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.frmprincipal.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserClient.resources
+E:\projet-desk-c#\projet_klein\gestion_poullailler\obj\Debug\gestion_poullailler.UserControls.UserFournisseur.resources
